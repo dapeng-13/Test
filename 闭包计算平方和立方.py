@@ -17,3 +17,7 @@ print('%s平方是：' % a, square(a))
 print('%s平方是：' % b, cube(b))
 print('%s平方是：' % c, si(c))
 
+print('sss：')
+
+
+
